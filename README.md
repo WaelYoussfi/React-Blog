@@ -1,4 +1,4 @@
-#Hey everyone!
+Hey everyone!This is a simple react blog app created to learn basic and advanced react concepts following the net ninja tutorial
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
